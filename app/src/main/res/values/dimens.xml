@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_card">20sp</dimen>
+    <dimen name="normal_card">16sp</dimen>
+    <dimen name="margin_in_card_normal">10dp</dimen>
+</resources>
